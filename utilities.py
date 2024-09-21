@@ -1,10 +1,6 @@
 import numpy as np
 import pandas as pd
 import scipy.stats as stats
-from IPython.display import display, Markdown
-
-def display_latex_df(data):
-    display(Markdown(data.to_markdown()))
 
 def multi_index_df(df, indices_list):
   return df.set_index(indices_list).sort_index()
