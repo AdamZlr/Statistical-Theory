@@ -24,7 +24,7 @@ The dataset used in this project includes life expectancy data from multiple yea
 
 - **Life Expectancy**: [WHO Life Expectancy Data](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/life-expectancy-at-birth-(years))
 - **Alcohol Consumption**: [WHO Alcohol Consumption Data](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/alcohol-recorded-per-capita-(15-)-consumption-(in-litres-of-pure-alcohol))
-- **BMI**: [WHO BMI Data](https://www.who.int/europe/news-room/fact-sheets/item/a-healthy-lifestyle---who-recommendations)
+- **BMI**: [NCD Risk Factor Collaboration BMI Data](https://www.ncdrisc.org/data-downloads-adiposity.html)
 - **GDP per capita**: [World Bank GDP Data](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?most_recent_year_desc=true)
 - **Population**: [World Bank Population Data](https://data.worldbank.org/indicator/SP.POP.TOTL?most_recent_year_desc=true)
 - **Years of Schooling**: [Our World in Data Schooling Data](https://ourworldindata.org/grapher/mean-years-of-schooling-long-run)
@@ -43,7 +43,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/life-expectancy-analysis.git
+    git clone https://github.com/AdamZlr/Statistical-Theory.git
     ```
 2. Install the required dependencies using `pip`:
     ```bash
