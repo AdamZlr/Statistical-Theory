@@ -58,6 +58,7 @@ To run this project locally, follow these steps:
 - `scipy`
 - `statsmodels`
 - `seaborn`
+- `scikit-learn`
 
 Ensure that these packages are installed by using the `requirements.txt` file.
 
